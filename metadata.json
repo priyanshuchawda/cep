@@ -1,0 +1,5 @@
+{
+  "name": "Subject Gateway",
+  "description": "A visually appealing portal to select a subject and get redirected to a dedicated learning website. Choose from Maths, Biology, Science, or Chemistry to start your journey.",
+  "requestFramePermissions": []
+}
